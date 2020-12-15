@@ -81,7 +81,7 @@ echo "\e[89m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
         otp:
         echo color("yellow","💬▶️ OTP LUR : ");
         $otp = trim(fgets(STDIN));
-        $data1 = '{"client_name":"gojek:cons:android","data":{"otp":"' . $otp . '","otp_token":"' . $otptoken . '"},"client_secret":"57d4cc65-cf5f-4983-a381-a8764fb39add"}';
+        $data1 = '{"client_name":"gojek:cons:android","data":{"otp":"' . $otp . '","otp_token":"' . $otptoken . '"},"client_secret":"35c92d64-a42e-4836-9657-c44e90969ffc"}';
         $verif = request("/v5/customers/phone/verify", null, $data1);
         if(strpos($verif, '"access_token"')){
         echo color("green","✔️ SUCSESS \n");
