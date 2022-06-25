@@ -3,10 +3,8 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo "\e[96m_________________   WARNING !!!!!!!!  _________________ \n";
-echo "\e[96m          INI SCRIB GOJEK INI GRATIS CUK                \n";
-echo "\e[96m           JADI GUNAKANLAH DENGAN BIJAK                 \n";
-echo "\e[96m          SCRIB INI TIDAK DI JUAL BELIKAN               \n";
-echo "\e[96m             * CREATED BY : MAS MELODIKA *              \n";
+echo "\e[96m          NGOPI SIKEK BOSS BEN RODO STRONG              \n";
+echo "\e[96m             * CREATED BY : VENOMENA *              \n";
 echo "\e[96m ********\e[95m".date('[d-m-Y] [H:i:s]')."\e[96m********\n";
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
@@ -39,7 +37,7 @@ else
 		echo "\e[96m[🚫]        \e[91mKAN WIS TAK KANDANI         \e[96m [🚫]\n";
 	        echo "\e[96m[🚫]              \e[91mKLIK ENTER AEE        \e[96m [🚫]\n";
 		echo "\e[96m[🚫]           \e[91mISIH NGEYEELLL      \e[96m [🚫]\n";
-	        echo "\e[96m[🚫] \e[91mRUNG TAU DI KAMPLENGI WONG BUNTUNG \e[96m [🚫]\n";
+	        echo "\e[96m[🚫] \e[91mRUNG TAU DI KAMPLENGI WONG BUNTUNG? \e[96m [🚫]\n";
 		echo "\e[91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 goto login;
 }
